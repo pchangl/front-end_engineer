@@ -7,3 +7,8 @@ CSS 预处理，顾名思义，预先处理 CSS。那 stylus 咋预先处理呢�
 文档:
 - [stylus 中文文档](https://www.zhangxinxu.com/jq/stylus/)
 - [stylus 官方文档](http://stylus-lang.com/)
+
+
+## JavaScript
+
+- [ECMAScript 6 入门](http://es6.ruanyifeng.com/?search=require&x=0&y=0)
